@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: hackapackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Larona-Suping/hackapackage
+Author: Larona-Suping
+Author-email: pride4suping@gmail.com
+License: MIT
+Description: # hackapackage
+        This library was created to publish my own Python hackapackage
+        
+        ## building this package locally
+        `python setup.py sdict`
+        
+        ## installing this package from GitHub
+        `pip install git+https://github.com/James-Leslie/example-python-package.git`
+        
+        ## updating this package from GitHub
+        `pip install --upgrade git+https://github.com/James-Leslie/example-python-package.git`
+        
+Platform: UNKNOWN

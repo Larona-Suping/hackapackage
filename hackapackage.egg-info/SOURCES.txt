@@ -1,0 +1,7 @@
+README.md
+setup.py
+hackapackage.egg-info/PKG-INFO
+hackapackage.egg-info/SOURCES.txt
+hackapackage.egg-info/dependency_links.txt
+hackapackage.egg-info/requires.txt
+hackapackage.egg-info/top_level.txt
